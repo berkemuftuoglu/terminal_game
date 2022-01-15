@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Type
+comment0.text=\n\ Enumeration\ class\ Presedence\ -\ write\ a\ description\ of\ the\ enum\ class\ here\n\n\ @author\ Berke\ M\u00FCft\u00FCo\u011Flu\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=presedenceString
+comment1.target=Type(java.lang.String)
+comment1.text=\n\ Initialise\ with\ the\ corresponding\ presedence\ string.\n\ @param\ presedenceString\ The\ presedence\ string.\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ @return\ The\ presedence\ word\ as\ a\ string.\n
+comment3.params=
+comment3.target=void\ setPresedenceOrder()
+comment3.text=\n\ Fills\ the\ presence\ order\n
+comment4.params=type
+comment4.target=int\ getPresedenceOrder(Type)
+comment4.text=\n\ Gets\ the\ presedence\ order\ as\ a\ number\n
+numComments=5

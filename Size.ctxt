@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Size
+comment0.text=\n\ This\ class\ represents\ all\ the\ sizes\ avilable\ in\ the\ game\n\ I\ have\ used\ it\ for\ items\ but\ later\ it\ can\ be\ used\ on\ players\ as\ well\n\n\ @author\ Berke\ M\u00FCft\u00FCo\u011Flu\n\ @version\ 2020.11.22\n
+comment1.params=sizeString
+comment1.target=Size(java.lang.String)
+comment1.text=\n\ Initialise\ with\ the\ corresponding\ size\ string.\n\ @param\ sizeString\ The\ size\ string.\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ @return\ The\ size\ word\ as\ a\ string.\n
+numComments=3
