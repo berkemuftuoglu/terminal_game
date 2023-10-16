@@ -8,7 +8,7 @@ A game based on the Lord of the Rings. The game initliazes a character and makes
 
 ## DEPLOYMENT
 
-The project is written in a program called Bluej. To run the project, a game object should be initlized and the play function should be run.
+The project is written in Bluej. To run the project, a game object should be initlized and the play function should be run.
 
 
 ## AUTHORS:
